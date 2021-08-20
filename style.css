@@ -43,7 +43,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-image: linear-gradient(rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.4)), url(https://cdn.pixabay.com/photo/2015/03/26/09/39/fried-chicken-690039_960_720.jpg);
-
+  background-attachment: fixed;
   }
 
 
